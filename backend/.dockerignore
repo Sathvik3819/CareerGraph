@@ -1,0 +1,7 @@
+.venv
+__pycache__
+*.pyc
+.env
+.git
+.gitignore
+generated_resume.pdf

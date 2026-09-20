@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+langchain
+langgraph
+langchain-groq
+langchain-mistralai
+langchain-huggingface
+reportlab
+psycopg[binary]
+python-jose[cryptography]
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+email-validator
+langsmith
