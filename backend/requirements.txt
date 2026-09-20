@@ -15,3 +15,4 @@ bcrypt==4.1.2
 email-validator
 langsmith
 sqlalchemy
+psycopg
